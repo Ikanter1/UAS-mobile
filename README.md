@@ -16,4 +16,4 @@
 ![Screenshot](hasil/login.jpeg)
 
 ### Dosen Login
-![Screenshot](hasil/logindosen.jpg)
+![Screenshot](hasil/logindosen.jpeg)
